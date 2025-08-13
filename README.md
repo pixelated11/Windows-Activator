@@ -8,3 +8,8 @@ running this command.
 curl -L keyms.id/aw11 -o aw11.cmd & aw11.cmd
 ```
 After waiting a few minutes on seeing some bahasa titles, your new windows is activated.
+# After you do this
+After you do this, windows 11/10 pro/enterprise should be activated. 
+If this is helpful, please consider starring this project to support me on making more project like this. Thanks!
+***
+Credits : Pixelated11
